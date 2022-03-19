@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width">
+        <title>lab9</title>
+        
+		<!-- link to data from megacities.js file -->
+		<script type="text/javascript" src="data/megacities.js"></script>
+		
+		<!-- link to leaflet scripts -->
+		<script type="text/javascript" src="lib/leaflet/leaflet.js"></script>
+		
+		<!--put your external stylesheet links here-->
+		<link rel="stylesheet" href="css/styles.css">
+		
+		<!-- link to leaflet styles -->
+		<link rel="stylesheet" type="text/css" href="lib/leaflet/leaflet.css" />
+        
+		<!--you can also place internal styles here; you would place these within <style> tags-->
+    </head>
+
+    <body>
+        <!--put your initial page content here-->
+		<div id="div1">
+			This is inside basic html container
+			<p> This is text contained inside of a standard easily-stylable tag </p>
+			</p> Q1: For .js file: // Created by: Leslie Nguyen, 2022 <p>
+			</p> Q1.2: For .css file: /* Created by: Leslie Nguyen, 2022 */ <p>
+			</p> Q2: I think it's because since JavaScript is used to modify or make CSS and HTML elements interactable, the HTML and CSS must be loaded first for the .js script to work properly.<p>
+			</p> Q3: The 'onload' executes the .js script after the page is loaded, I think? So that'll display and execute what the code inside is intending to do <b>explicitly</b>. <p>
+			</p> Q4: I think cityPop is a variable, which has numbers and strings, which also ressembles a dictionary in Python (that contains numbers and strings).<p>
+			</p> <b> Note: You may click anywhere on the map to get latitude and longitude values. </b> </p>
+		</div>
+        
+		<!--you can also use this space for internal scripts; you would place these within <script> tags-->
+		
+		<!-- create a map container (content will be loaded from .js and style from .css files) -->
+		<div id = "mapdiv">
+			
+		</div>
+		
+        <!--put your external script links here-->
+        <script type="text/javascript" src="js/main.js"></script>
+    </body>
+</html>
