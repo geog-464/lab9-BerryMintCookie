@@ -263,7 +263,7 @@ Try to add some functionality or styling to your webmap. This could be in the fo
 
 # Resources for styling your web map
 
-For more, see this basic tutorial for [adding and styling data](https://leafletjs.com/SlavaUkraini/examples/geojson/) to a leaflet map or this (somewhat dated but widely respected)[workshop presentation](https://maptimeboston.github.io/leaflet-intro/) from a conference that you might find nevertheless extremely useful. If your better with documentation (and as a general reference), always consult the [leaflet docs](https://leafletjs.com/SlavaUkraini/reference.html). Lastly, use your search engine: there are plenty of resources out there for learning to map with leaflet...
+For more, see this basic tutorial for [adding and styling data](https://leafletjs.com/SlavaUkraini/examples/geojson/) to a leaflet map or this (somewhat dated but widely respected)[workshop presentation](https://maptimeboston.github.io/leaflet-intro/) from a conference that you might find nevertheless extremely useful. If you're better with documentation (and as a general reference), always consult the [leaflet docs](https://leafletjs.com/SlavaUkraini/reference.html). Lastly, use your search engine: there are plenty of resources out there for learning to map with leaflet...
 
 # Deliverables
 
